@@ -1,18 +1,12 @@
 # IITC Plugins
 
+These are plugins for [Ingress Intel Total Conversion](http://iitc.jonatkins.com/). Install the scripts via Tampermonkey (Chrome) or Greasemonkey (Firefox).
+
 ## [Chat View on Intel](https://github.com/nighthound/iitc-stuff/raw/master/chat-view.user.js)
 
 ### Description
 
 Adds a button to the chat box to toggle between full screen chat mode.
-
-### Prerequisites
-
-[Ingress Intel Total Conversion](http://iitc.jonatkins.com/) needs to be installed for this plugin to work.
-
-### Installation
-
-Install the script via Tampermonkey or Greasemonkey.
 
 ### Known Issues
 
