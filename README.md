@@ -11,3 +11,9 @@ Adds a button to the chat box to toggle between full screen chat mode.
 ### Known Issues
 
 - does not work well with Privacy View plugin.
+
+## [Toggle Resonators Display](https://github.com/nighthound/iitc-stuff/raw/master/toggle-resonators-display.user.js)
+
+### Description
+
+Adds a button toggle to show/hide resonators.
