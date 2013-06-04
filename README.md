@@ -6,7 +6,7 @@ These are plugins for [Ingress Intel Total Conversion](http://iitc.jonatkins.com
 
 ### Description
 
-Adds a button to the chat box to toggle between full screen chat mode.
+Adds a button to the chat box to toggle to full screen chat mode and hide the map. The information display will be based to the current map location, so adjust the map accordingly before switching to full screen mode.
 
 ### Known Issues
 
