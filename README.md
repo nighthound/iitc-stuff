@@ -17,3 +17,9 @@ Adds a button to the chat box to toggle to full screen chat mode and hide the ma
 ### Description
 
 Adds a button toggle to show/hide resonators.
+
+## [Highlight Missing Mods](https://github.com/nighthound/iitc-stuff/blob/master/hightlight-missing-mods.user.js)
+
+### Description
+
+Use the fill color to denote portals which are missing mods.
