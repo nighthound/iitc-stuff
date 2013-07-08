@@ -1,3 +1,4 @@
+// ==UserScript==
 // @id             iitc-plugin-chat-view@nighthound
 // @name           IITC plugin: Chat view on Intel
 // @version        0.1.1
