@@ -18,13 +18,13 @@ Adds a button to the chat box to toggle to full screen chat mode and hide the ma
 
 Adds a button toggle to show/hide resonators.
 
-## [Highlight Missing Mods](https://github.com/nighthound/iitc-stuff/blob/master/hightlight-missing-mods.user.js)
+## [Highlight Missing Mods](https://github.com/nighthound/iitc-stuff/raw/master/hightlight-missing-mods.user.js)
 
 ### Description
 
 Use the fill color to denote portals which are missing mods.
 
-## [Timestamp with Seconds](https://github.com/nighthound/iitc-stuff/blob/master/timestamp-with-seconds.user.js)
+## [Timestamp with Seconds](https://github.com/nighthound/iitc-stuff/raw/master/timestamp-with-seconds.user.js)
 
 ### Description
 
