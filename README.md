@@ -23,3 +23,9 @@ Adds a button toggle to show/hide resonators.
 ### Description
 
 Use the fill color to denote portals which are missing mods.
+
+## [Timestamp with Seconds](https://github.com/nighthound/iitc-stuff/blob/master/timestamp-with-seconds.user.js)
+
+### Description
+
+Display log timestamps with seconds.
